@@ -5,7 +5,13 @@ I am editing this on Prose.io.
 
 And now I am editing this line on GoMix. How will this save?
 
-GoMix GoMix ⛵️
+# This is a new line. 
+
+```Does this show up as a quote?```
+
+```javascript
+$.post('v1/ap1/', {something: here}, (res) => console.log(res)); 
+```
 
 ![](https://cdn.gomix.com/ab2a48b3-b6e1-4883-a4ea-045dfb87cdc8%2FcreativeThemeShot.png)
 
